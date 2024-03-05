@@ -1,4 +1,4 @@
 numpy
-ultralytics==8.0.110
+ultralytics==8.1.0
 matplotlib
 opencv-python
