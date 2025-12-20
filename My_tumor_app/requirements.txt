@@ -1,4 +1,5 @@
 numpy
-ultralytics==8.0.110
+ultralytics==8.3.226
 matplotlib
 opencv-python
+torch>=2.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
